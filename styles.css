@@ -1,3 +1,18 @@
+body {
+  margin: 0;
+}
+
+#toolbar-header {
+  height: 128px;
+  width: 100%;
+  background: url('img/pallete.jpg');
+  background-size: contain;
+}
+
+#toolbar-header img {
+
+}
+
 .first.left.header {
   color:#9C27B0;
   font-family: serif;
