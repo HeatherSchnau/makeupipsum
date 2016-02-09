@@ -15,6 +15,13 @@
   color: #9c27b0;
 }
 
-.third.p {
-  color: #6A1B9A;
+.aside {
+  color: #ffffff;
+  width: 200px;
+  text-align: center;
+  height: 200px;
+  padding: 10px 20px;
+  margin: 10px;
+  background-color: #6a1b9a;
+  word-wrap: break-word;
 }
