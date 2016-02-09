@@ -1,0 +1,20 @@
+.first.left.header {
+  color:#9C27B0;
+  font-family: serif;
+  font: Georgia, Arial, "Times New Roman";
+  font-size: 30px;
+  position: left;
+  padding: 12px 16px 12px 16px;
+}
+
+.first.p {
+  color: #ba68c8;
+}
+
+.second.p {
+  color: #9c27b0;
+}
+
+.third.p {
+  color: #6A1B9A;
+}
